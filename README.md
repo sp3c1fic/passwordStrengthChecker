@@ -13,7 +13,6 @@ Features
     Checks password strength based on character types and length
     Estimates cracking time for offline fast attacks, offline slow attacks, and online attacks
     Provides colorized output for better readability
-    Displays a welcome message with ASCII art
 
 Requirements
 
@@ -26,7 +25,7 @@ Installation
 
     bash
 
-git clone (https://github.com/sp3c1fic/passwordStrengthChecker/tree/main)
+git clone https://github.com/sp3c1fic/passwordStrengthChecker.git
 cd password-checker
 
 Install the required dependencies:
