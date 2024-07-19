@@ -26,7 +26,7 @@ Installation
 
     bash
 
-git clone https://github.com/yourusername/password-checker.git
+git clone (https://github.com/sp3c1fic/passwordStrengthChecker/tree/main)
 cd password-checker
 
 Install the required dependencies:
