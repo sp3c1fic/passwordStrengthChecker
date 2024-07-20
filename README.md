@@ -50,5 +50,5 @@ Follow the on-screen instructions:
     The script will estimate the cracking time for different attack methods and display the results.
 Example Output:
 
-![Screenshot 2024-07-19 221839](https://github.com/user-attachments/assets/ab2622ed-7200-4d99-86db-23b42fba0890)
+![Screenshot 2024-07-20 190813](https://github.com/user-attachments/assets/d7498468-db63-4a33-b9ea-29074d8dea97)
 
